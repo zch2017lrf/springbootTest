@@ -11,6 +11,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class KaleldoApplication {
 
     public static void main(String[] args) {
+
         SpringApplication.run(KaleldoApplication.class, args);
     }
 
